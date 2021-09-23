@@ -24,6 +24,8 @@ h4 {
     text-transform: capitalize;
     background-color: aqua;
 }
-br {
-    background-color: cadetblue;
+
+.images {
+    width: 50%;
+    height: auto;
 }
